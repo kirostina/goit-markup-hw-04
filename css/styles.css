@@ -238,6 +238,19 @@ ul {
   color: var(--color-slate);
 }
 /* Section2 */
+.container-icons-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+svg {
+  width: 64;
+  height: 64;
+}
 .whatwad {
   background-color: #f4f4fd;
   padding-bottom: 120px;
