@@ -364,10 +364,10 @@ ul {
   padding-bottom: 120px;
 }
 .customers_h {
+  margin-bottom: 72px;
   font-size: 36px;
   line-height: 1.1;
   color: var(--color-grey);
-  margin-bottom: 72px;
 }
 .customers_list {
   display: flex;
@@ -385,6 +385,11 @@ ul {
   display: flex;
   align-items: center;
   color: var(--color-light-slate);
+  justify-content: center;
+}
+.customers-link:hover,
+.customers-link:focus {
+  border-color: #404bbf;
 }
 .customers-link:hover,
 .customers-link:focus {
@@ -446,6 +451,9 @@ ul {
 }
 .footeer-par {
   max-width: 264px;
+  font-weight: 500;
+  color: var(--color-white);
+  margin-bottom: 16px;
 }
 .logo-cloud {
   font-family: "Raleway";
