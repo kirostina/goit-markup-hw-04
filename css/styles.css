@@ -360,6 +360,7 @@ ul {
 /*Section 5*/
 .customers {
   padding-top: 120px;
+  padding-bottom: 120px;
 }
 .customers_h {
   font-size: 36px;
