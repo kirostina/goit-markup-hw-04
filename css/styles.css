@@ -405,7 +405,8 @@ ul {
   fill: currentColor;
 }
 /* Footer */
-.container {
+.container-footer {
+  display: flex;
   align-items: baseline;
 }
 .footer_first {
