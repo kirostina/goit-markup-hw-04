@@ -477,6 +477,9 @@ ul {
   line-height: 24px;
   color: var(--color-cloud);
 }
+.footer-icons {
+  fill: var(--color-cloud);
+}
 /* Portfolio - buttons */
 .porfolio-section {
   background-color: var(--color-cloud);
