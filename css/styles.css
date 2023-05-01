@@ -179,6 +179,7 @@ li {
   font-size: 56px;
   line-height: 1.07;
   color: var(--color-white);
+  text-align: center;
 }
 .hero-sol {
   line-height: 1.07;
@@ -201,6 +202,8 @@ li {
   background-color: var(--color-iris);
   border-radius: 4px;
   cursor: pointer;
+  margin: 0 auto;
+  display: block;
 }
 .hero-btn:hover,
 .hero-btn:focus {
