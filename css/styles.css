@@ -372,6 +372,7 @@ ul {
   font-size: 36px;
   line-height: 1.1;
   color: var(--color-grey);
+  margin-bottom: 72px;
 }
 .customers_list {
   display: flex;
@@ -452,9 +453,13 @@ ul {
   color: var(--color-iris);
 }
 .footer-par {
+  font-family: "Roboto";
+  font-style: normal;
   max-width: 264px;
-  font-weight: 500;
-  color: var(--color-white);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color-cloud);
   margin-bottom: 16px;
 }
 .logo-cloud {
@@ -465,14 +470,6 @@ ul {
   line-height: 21px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--color-cloud);
-}
-.footer p {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
   color: var(--color-cloud);
 }
 .footer-icons {
