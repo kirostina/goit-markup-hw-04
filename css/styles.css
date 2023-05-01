@@ -372,7 +372,7 @@ ul {
   font-size: 36px;
   line-height: 1.1;
   color: var(--color-grey);
-  margin-bottom: 72px;
+  text-align: center;
 }
 .customers_list {
   display: flex;
