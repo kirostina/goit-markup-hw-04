@@ -373,6 +373,7 @@ ul {
 .customers_h {
   margin-bottom: 72px;
   font-size: 36px;
+  margin-top: 0;
   line-height: 1.1;
   color: var(--color-grey);
   text-align: center;
